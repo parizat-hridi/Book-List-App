@@ -13,7 +13,7 @@ export default function index() {
   }));
 
   return (
-    <div className="py-2 h-screen bg-gradient-to-r from-green-400 to-blue-500 ...">
+    <div className="py-2 h-auto bg-gradient-to-r from-green-400 to-blue-500 ...">
       <section>
         <header className="py-3 text-white text-center font-bold text-3xl">
           <span className="text-5xl font-serif text-red-600">B</span>ook📚
