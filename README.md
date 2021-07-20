@@ -3,7 +3,8 @@
 ## What is this "Book📚List App" about?
 The [Book📚List App](https://book-list-app-blush.vercel.app/) is designed to provide some book list related advantages and explore basic NextJS.
 
-## Visit the live "Book📚List App" here ==> https://book-list-app-blush.vercel.app/
+## Preview
+Visit the live "Book📚List App" here ==> https://book-list-app-blush.vercel.app/
 
 ## Visual Representation:
 
@@ -23,7 +24,7 @@ The [Book📚List App](https://book-list-app-blush.vercel.app/) is designed to p
 #### Fonts
 * [Google Fonts](https://fonts.google.com/)
 
-### ReactJS
+#### ReactJS
 * [ReactJS](https://reactjs.org/)
 
 #### TailwindCSS
