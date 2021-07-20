@@ -1,29 +1,41 @@
-# Next.js + Tailwind CSS Example
+# Book📚List App
+----
+## What is this "Book📚List App" about?
+The [Book📚List App](https://book-list-app-blush.vercel.app/) is designed to provide some book list related advantages and explore basic NextJS.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Visit the live "Book📚List App" here ==> https://book-list-app-blush.vercel.app/
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## Visual Representation:
 
-## Preview
+![Screenshot from 2021-07-21 02-13-21](https://user-images.githubusercontent.com/43074604/126389494-0152c583-8114-43d8-baea-ac2fdab71a93.png)
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Advantages 
+* It shows a list of books sectioned by the book's genre.
+* You can find your desired books here. We also provide the selling details of the books.
+* Here includes dynamic routing💛
+----
 
-## Deploy your own
+## Resources
+#### NextJS
+* [NextJS](https://nextjs.org/)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+#### Fonts
+* [Google Fonts](https://fonts.google.com/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### ReactJS
+* [ReactJS](https://reactjs.org/)
 
-## How to use
+#### TailwindCSS
+* [TailwindCSS](https://tailwindcss.com/)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+#### Texts and Headings
+* [Texts](https://www.google.com/search?q=text+forsite&source=lmns&bih=657&biw=1366&hl=en&sa=X&ved=2ahUKEwi_irL9mazxAhXztksFHdywBGQQ_AUoAHoECAEQAA)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+#### Learning More
+* [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
+
+----
+## Sharing Project Experience!
+The project was such a wonderful experience. It was challenging, meaningful, and deeply fulfilling✨
